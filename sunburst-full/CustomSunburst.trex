@@ -31,7 +31,6 @@ website= "https://github.com/RSey77"/>
 
     </dashboard-extension>
 
-
     <resources>
         <resource id="name">
             <text locale="en_US">
@@ -39,5 +38,4 @@ website= "https://github.com/RSey77"/>
             </text>
         </resource>
     </resources>
-
 </manifest>
