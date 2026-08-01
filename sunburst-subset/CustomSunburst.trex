@@ -19,7 +19,7 @@ email= "rks.promotions@proton.me"
 organization= "Custom" 
 website= "https://github.com/RSey77"/>
 
-        <min-api-version>1.0</min-api-version>
+        <min-api-version>1.4</min-api-version>
 
         <source-location>
             <url>https://RSey77.github.io/custom-sunburst/sunburst-subset/index.html</url>
