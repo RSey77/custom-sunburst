@@ -14,9 +14,10 @@
             Custom Interactive Sunburst
         </description>
 
-        <author name="Custom Sunburst"
-                organization="n/a"
-                website="n/a"/>
+<author name="Custom Sunburst" 
+email= "rks.promotions@proton.me" 
+organization= "Custom" 
+website= "https://github.com/RSey77"/>
 
         <min-api-version>1.0</min-api-version>
 
@@ -30,7 +31,6 @@
 
     </dashboard-extension>
 
-
     <resources>
         <resource id="name">
             <text locale="en_US">
@@ -38,5 +38,4 @@
             </text>
         </resource>
     </resources>
-
 </manifest>
