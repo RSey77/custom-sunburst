@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest manifest-version="0.1"
+          xmlns="http://www.tableau.com/xml/extension_manifest">
+
+    <dashboard-extension id="com.custom.sunburst.full"
+                         extension-version="0.1.0">
+
+        <default-locale>en_US</default-locale>
+
+        <name resource-id="name"/>
+
+        <description>
+            Custom Interactive Sunburst
+        </description>
+
+ <author name="Custom Sunburst"
+                organization="n/a"
+                website="n/a"/>
+
+        <min-api-version>1.0</min-api-version>
+
+        <source-location>
+            <url>https://RSey77.github.io/custom-sunburst/sunburst-full/index.html</url>
+        </source-location>
+
+        <icon>
+            iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=
+        </icon>
+
+    </dashboard-extension>
+
+
+    <resources>
+        <resource id="name">
+            <text locale="en_US">
+                Custom Interactive Sunburst
+            </text>
+        </resource>
+    </resources>
+
+</manifest>
